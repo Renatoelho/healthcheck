@@ -17,7 +17,7 @@ Neste guia, você aprenderá como implementar Health Checks de maneira simples u
 + ![Docker](https://img.shields.io/badge/Docker-27.4.1-E3E3E3)
 + ![Docker-compose](https://img.shields.io/badge/Docker--compose-1.25.0-E3E3E3)
 + ![Git](https://img.shields.io/badge/Git-2.25.1%2B-E3E3E3)
-+ ![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-E3E3E3)
++ ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04%2B-E3E3E3)
 
 ## O que são Health Checks?
 
